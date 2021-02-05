@@ -1,3 +1,3 @@
 # PHSX815_Week1
 
-something here
+Now includes python files for generating random numbers.
